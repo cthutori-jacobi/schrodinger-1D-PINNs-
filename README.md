@@ -1,1 +1,1 @@
-# schrodinger-1D-PINNs-
+# Schrodinger-1D-PINNs-
